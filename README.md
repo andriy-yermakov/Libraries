@@ -1,3 +1,3 @@
 # Libraries
 
-Altium Designer componets library
+Altium Designer componet library
